@@ -22,3 +22,13 @@ void ShowArray(string[] arr1)
     }
 }
 
+void PrintArray(string[] arr1)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            Console.Write(" '{1}'  ", i, arr1[i]);
+        }
+    }
+}
