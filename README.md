@@ -1,4 +1,3 @@
-# FinalModulWork
 # **Итоговое задание**
 ## 1. Создаем репозиторий на GitHub
 > *Создан репозиторий:*
@@ -15,6 +14,6 @@ https://github.com/sviridovaan/FinalModulWork/blob/master/FinalModulWork.drawio
 > *Файл с решением в репозитории по ссылке:*
 https://github.com/sviridovaan/FinalModulWork/blob/master/Program.cs
 
-##5. Использовать контроль версий
+## 5. Использовать контроль версий
 
 > *Создано с применением контроля версий*
