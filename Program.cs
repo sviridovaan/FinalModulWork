@@ -14,5 +14,11 @@ Console.Write($"[");
 PrintArray(array);
 Console.Write($"]");
 
-
+void ShowArray(string[] arr1)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(" '{1}'  ", i, arr1[i]);
+    }
+}
 
